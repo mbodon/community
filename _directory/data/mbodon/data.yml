@@ -13,7 +13,7 @@ longitude: 9.1797545
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!
-bio: "I'm a graphic designer from Stuttgart and redaxo user since 2007."
+bio: "I'm a graphic designer based in Stuttgart and work with Redaxo passionately since 2007 // Ich bin Grafikdesigner in Stuttgart und nutze Redaxo mit Begeisterung seit 2007"
 
 # image or gravatar
 # provide image file from current folder (like 'johndoe.jpg') or gravatar url (generated via https://3v4l.org/OXG7H)
@@ -24,6 +24,6 @@ image: mbodon.jpg
 # one or more links to your website, your github profile, twitter, facebook et al.
 # 4 links, tops!
 links:
-- https://www.bodon.de
+- https://bodon.de
 
 ---
